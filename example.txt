@@ -1,0 +1,8 @@
+Hello world
+Things we did:
+- git init
+- git remote add origin https://....git
+- git status
+- git add example.txt
+- git commit -m 'message'
+- git push origin main
